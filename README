@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3866
+
+Initial upload.
+
+At the moment, functions and constants highlights are supported.  Vim file is built based on Phidget21 header file.  
